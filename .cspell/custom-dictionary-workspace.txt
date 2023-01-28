@@ -1,0 +1,27 @@
+# Custom Dictionary Words
+heapless
+initialised
+unrecognised
+
+# Raspberry Pico words
+Pico
+rp_pico
+pimoroni
+
+# Peripheral words
+XOSC
+USBCTRL
+REGS
+DPRAM
+gpio
+uart
+plls
+usbd
+
+# Embedded words
+Pinout
+
+# other
+rpos
+wpos
+npos
